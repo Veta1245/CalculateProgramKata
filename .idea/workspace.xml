@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b9911881-fd5c-4637-ab87-4297a3ee3ada" name="Changes" comment="пробую выкладывать правильно">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Converter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +33,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/GaMaDriLa/IdeaProjects/calculator",
+    "last_opened_file_path": "C:/Users/GaMaDriLa/IdeaProjects/CalculateProgram",
     "onboarding.tips.debug.path": "C:/Users/GaMaDriLa/IdeaProjects/CalculateProgram/src/Main.java",
     "settings.editor.selected.configurable": "vcs.Git"
   }
@@ -74,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693467898408</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="пробую выкладывать правильно">
+      <created>1694172766659</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694172766659</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
